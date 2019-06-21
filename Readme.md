@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to calculate running totals values in a column
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e66/)**
+<!-- run online end -->
 
 
 <p>This demo demonstrates how to implement the running totals feature in the Total column.<br />
